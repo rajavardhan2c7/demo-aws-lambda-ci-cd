@@ -12,10 +12,4 @@ Resources:
       Description: Java function
       MemorySize: 128
       Timeout: 10
-      # Function's execution role
-      Policies:
-        - AWSLambdaBasicExecutionRole
-        - AWSLambdaReadOnlyAccess
-        - AWSXrayWriteOnlyAccess
-        - AWSLambdaVPCAccessExecutionRole
       Tracing: Active
