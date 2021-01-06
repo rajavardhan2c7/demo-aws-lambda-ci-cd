@@ -1,4 +1,4 @@
-package com.unpinlink;
+package demo.lambda;
 
 public class WeatherData {
 

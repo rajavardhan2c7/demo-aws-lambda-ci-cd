@@ -1,4 +1,4 @@
-package com.unpinlink;
+package demo.lambda;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.LambdaLogger;
